@@ -1,0 +1,83 @@
+.calculator{
+  margin-top: 11px;
+  margin-bottom: 100px;
+  margin-right: 50px;
+  margin-left: 850px;
+  width: 210px;
+  height: 250px;
+  box-sizing: border-box;
+  background-color: lightblue;
+}
+
+#output{
+  padding: 10px 15px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  width: 165px;
+  margin-left: 5px;
+}
+
+#row1{
+  border: ;
+  color: black;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-right: 2px;
+  margin-left: 2.5px;
+}
+
+#op{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 16px;
+  background-color: #ffff77;
+}
+
+#equal{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: 1px #64e764;
+  text-align: center;
+  margin-right:8px;
+  margin-left:5px;
+  font-size: 16px;
+  background-color:#64e764;
+}
+
+#Zero{
+  color: black;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-right: 1px;
+  margin-left: 4px;
+}
+
+#Clear{
+  color: black;
+  padding: 10px 13px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-right: 1px;
+  margin-left: 4px;
+  background-color:#FF7F7F;
+  border:#FF7F7F;
+  
+}
